@@ -1,4 +1,5 @@
 # Marathon_Map
+
 Interactive Map of the United States for Tracking Activity Data
 Overview
 This application built with Flutter focused on iOS, features a clickable map of the United States. Users can select individual states and input activity-related details such as:
