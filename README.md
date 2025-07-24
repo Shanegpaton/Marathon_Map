@@ -46,7 +46,10 @@ This project demonstrates my ability to design and implement a cross-platform mo
 ---
 ## 📸 Demo
 
-https://github.com/user-attachments/assets/02bf3e0f-7dd6-4cab-bbc2-4e4577e5cf0c
+Watch a demo video showcasing the Marathon Map:
+
+[📺 Watch Demo on Google Drive](https://drive.google.com/file/d/1h5_IhfXubE1_0KEeOHzQoRtYq1nyG-Nz/view?usp=sharing)
+
 
 ---
 ## Getting Started (For Developers)
